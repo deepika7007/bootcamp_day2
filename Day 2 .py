@@ -61,3 +61,25 @@ print(x)
 text="Thirty Days and Thirty Hours"
 x=text.isalnum()
 print(x)
+
+
+Result:
+30 days 30 hour challenge
+30 days Bootcamp
+Thirty
+T
+r
+win
+10
+i will win
+30 days30 hours
+30days 30hours
+thirty days and thirty hours
+Thirty days and thirty hours
+-1
+False
+False
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
